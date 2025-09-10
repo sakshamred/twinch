@@ -1,6 +1,9 @@
 Requirements : 
 ```pip install snscrape easyocr pillow requests
+```
 
+```
+```
 
 
 <h1>🚀 How it works </h1>>
