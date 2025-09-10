@@ -1,8 +1,6 @@
 Requirements : 
-```pip install snscrape easyocr pillow requests
 ```
-
-```
+pip install snscrape easyocr pillow requests
 ```
 
 
